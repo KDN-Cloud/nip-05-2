@@ -1,2 +1,4 @@
-# NIP-05-2
-NIP-05 verified on Nostr to get a verification checkmark and an easier way to share your account.
+# nip-05
+NIP-05 verified on Nostr
+
+**NIP-05** verification for `aklein.pro` domain.
